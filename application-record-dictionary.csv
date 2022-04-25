@@ -1,0 +1,19 @@
+Feature name,Explanation,Remarks
+ID,Client number,-
+CODE_GENDER,Gender,M or F
+FLAG_OWN_CAR,Is there a car,Y or N
+FLAG_OWN_REALTY,Is there a property,Y or N
+CNT_CHILDREN,Number of children,-
+AMT_INCOME_TOTAL,Annual income,-
+NAME_INCOME_TYPE,Income category,-
+NAME_EDUCATION_TYPE,Education level,-
+NAME_FAMILY_STATUS,Marital status,-
+NAME_HOUSING_TYPE,Way of living,-
+DAYS_BIRTH,Birthday,"Count backwards from current day (0), -1 means yesterday"
+DAYS_EMPLOYED,Start date of employment,"Count backwards from current day (0). If positive, it means the person currently unemployed."
+FLAG_MOBIL,Is there a mobile phone,If (1) means has mobile phone | If (0) there is no mobile phone
+FLAG_WORK_PHONE,Is there a work phone,If (1) means has work phone | If (0) there is no work phone
+FLAG_PHONE,Is there a phone,If (1) means has phone | If (0) there is no phone
+FLAG_EMAIL,Is there an email,If (1) means has email | If (0) there is no email
+OCCUPATION_TYPE,Occupation,-
+CNT_FAM_MEMBERS,Family size,-

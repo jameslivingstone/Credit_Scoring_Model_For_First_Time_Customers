@@ -1,0 +1,43 @@
+NAME_INCOME_TYPE,Points Assigned
+Pensioner,8
+Commercial associate,6
+Working,5
+State servant,7
+Student,3
+-,-
+NAME_FAMILY_STATUS,Points Assigned
+Married                 1720,6
+Single / not married     306,2
+Civil marriage           197,4
+Separated                164,3
+Widow                    113,4
+-,-
+NAME_HOUSING_TYPE,Points Assigned
+House / apartment,4
+With parents,3
+Municipal apartment,1
+Rented apartment,2
+Co-op apartment,3
+Office apartment,2
+-,-
+FLAG_OWN_CAR,Points Assigned
+N,0
+Y,6
+-,-
+FLAG_OWN_REALTY,Points Assigned
+N,0
+Y,6
+-,-
+AMT_INCOME_TOTAL,Points Assigned
+0-24 %,4
+25-49 %,6
+50-74 %,8
+75-100 %,10
+-,-
+STATUS,Points Assigned
+0 or C,60
+1 or X,50
+2,40
+3,30
+4,20
+5,0
