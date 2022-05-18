@@ -5,6 +5,7 @@ Payment History and Biographic Data csvs from Kaggle.
 
 
 Summary of Methodology and Conclusion:
+
 Recent studies have shown that Oklahoma has the 4th lowest average number of credit cards in the country.
 The Oklahoma National Credit Union needed a business model for attracting customers who have no credit history.
 Flex Data came up with a calculative approach for establishing credit worthiness for first-time applicants.
